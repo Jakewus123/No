@@ -1,6 +1,5 @@
 #Writter by Jake wu
 #-----------Import----------#
-Import os
 from os import system as clr
 #------------logo----------#
  logo=(
